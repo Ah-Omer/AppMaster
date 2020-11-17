@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="getNatNum">
+        <s:complexType />
+      </s:element>
+      <s:element name="getNatNumResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getNatNumResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="saveddata">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="data" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="saveddataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="saveddataResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Rdata">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="nat" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RdataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RdataResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="getNatNumSoapIn">
+    <wsdl:part name="parameters" element="tns:getNatNum" />
+  </wsdl:message>
+  <wsdl:message name="getNatNumSoapOut">
+    <wsdl:part name="parameters" element="tns:getNatNumResponse" />
+  </wsdl:message>
+  <wsdl:message name="saveddataSoapIn">
+    <wsdl:part name="parameters" element="tns:saveddata" />
+  </wsdl:message>
+  <wsdl:message name="saveddataSoapOut">
+    <wsdl:part name="parameters" element="tns:saveddataResponse" />
+  </wsdl:message>
+  <wsdl:message name="RdataSoapIn">
+    <wsdl:part name="parameters" element="tns:Rdata" />
+  </wsdl:message>
+  <wsdl:message name="RdataSoapOut">
+    <wsdl:part name="parameters" element="tns:RdataResponse" />
+  </wsdl:message>
+  <wsdl:portType name="CRSMETHODSoap">
+    <wsdl:operation name="getNatNum">
+      <wsdl:input message="tns:getNatNumSoapIn" />
+      <wsdl:output message="tns:getNatNumSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="saveddata">
+      <wsdl:input message="tns:saveddataSoapIn" />
+      <wsdl:output message="tns:saveddataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Rdata">
+      <wsdl:input message="tns:RdataSoapIn" />
+      <wsdl:output message="tns:RdataSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CRSMETHODSoap" type="tns:CRSMETHODSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getNatNum">
+      <soap:operation soapAction="http://tempuri.org/getNatNum" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveddata">
+      <soap:operation soapAction="http://tempuri.org/saveddata" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Rdata">
+      <soap:operation soapAction="http://tempuri.org/Rdata" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="CRSMETHODSoap12" type="tns:CRSMETHODSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getNatNum">
+      <soap12:operation soapAction="http://tempuri.org/getNatNum" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="saveddata">
+      <soap12:operation soapAction="http://tempuri.org/saveddata" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Rdata">
+      <soap12:operation soapAction="http://tempuri.org/Rdata" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CRSMETHOD">
+    <wsdl:port name="CRSMETHODSoap" binding="tns:CRSMETHODSoap">
+      <soap:address location="http://localhost:6384/CRSMETHOD.asmx" />
+    </wsdl:port>
+    <wsdl:port name="CRSMETHODSoap12" binding="tns:CRSMETHODSoap12">
+      <soap12:address location="http://localhost:6384/CRSMETHOD.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

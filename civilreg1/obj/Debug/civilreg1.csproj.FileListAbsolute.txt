@@ -1,0 +1,879 @@
+c:\users\pc\documents\visual studio 2015\Projects\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+c:\users\pc\documents\visual studio 2015\Projects\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+c:\users\pc\documents\visual studio 2015\Projects\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+c:\users\pc\documents\visual studio 2015\Projects\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+C:\Users\AHMED\Desktop\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+C:\Users\AHMED\Desktop\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+C:\Users\AHMED\Desktop\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+C:\Users\AHMED\Desktop\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+C:\Users\AHMED\Desktop\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+C:\Users\AHMED\Desktop\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+C:\Users\AHMED\Desktop\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+C:\Users\AHMED\Desktop\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+C:\Users\AHMED\Desktop\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.xml
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.xml
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\obj\Debug\civilreg1.search.resources
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+G:\Ahmed Omer\Softwaer\ComputerMan\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.search.resources
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.search.resources
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.search.resources
+C:\Users\pc\Desktop\app update\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.MAIN.resources
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.search.resources
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+C:\Users\Adlan\Desktop\AZ INTERFACE\last1\app update\civilreg1\civilreg1\obj\Debug\civilreg1.login.resources
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\obj\Debug\civilreg1.login.resources
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\obj\Debug\civilreg1.MAIN.resources
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\obj\Debug\civilreg1.search.resources
+C:\Users\pc\Desktop\app update\app update\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+F:\_\app update\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+F:\_\app update\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+F:\_\app update\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\obj\Debug\civilreg1.login.resources
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\obj\Debug\civilreg1.MAIN.resources
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\obj\Debug\civilreg1.search.resources
+C:\Users\Adlan\Desktop\flash\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraBars.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraBars.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.login.resources
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.MAIN.resources
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.search.resources
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Dashboard.v15.2.Core.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Dashboard.v15.2.Win.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.DataAccess.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Map.v15.2.Core.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Office.v15.2.Core.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Xpo.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Presets.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Win.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraMap.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraReports.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.CodeParser.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Dashboard.v15.2.Core.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Dashboard.v15.2.Win.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.DataAccess.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Map.v15.2.Core.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Office.v15.2.Core.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Xpo.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Presets.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Win.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraMap.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraReports.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Dashboard.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Dashboard.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Dashboard.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Dashboard.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Dashboard.v15.2.Win.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Dashboard.v15.2.Win.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Dashboard.v15.2.Win.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Dashboard.v15.2.Win.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Map.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Map.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Map.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Map.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.MainSc.resources
+G:\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.exe.licenses
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.login.resources
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.MainSc.resources
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.search.resources
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\obj\Debug\civilreg1.exe.licenses
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.CodeParser.v15.2.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Dashboard.v15.2.Core.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Dashboard.v15.2.Win.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.DataAccess.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Map.v15.2.Core.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Office.v15.2.Core.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Xpo.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraBars.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Presets.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Win.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraMap.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraReports.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Dashboard.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Dashboard.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Dashboard.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Dashboard.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Dashboard.v15.2.Win.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Dashboard.v15.2.Win.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Dashboard.v15.2.Win.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Dashboard.v15.2.Win.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Map.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Map.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Map.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Map.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+E:\Ahmed Omer\النسخة الاخيرة\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.csprojResolveAssemblyReference.cache
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.Form1.resources
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.login.resources
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.MainSc.resources
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.Properties.Resources.resources
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.search.resources
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.csproj.GenerateResource.Cache
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.exe.licenses
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\civilreg1.exe
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\civilreg1.pdb
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.CodeParser.v15.2.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Dashboard.v15.2.Core.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Dashboard.v15.2.Win.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Data.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.DataAccess.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Map.v15.2.Core.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Office.v15.2.Core.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Xpo.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraBars.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Presets.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGauges.v15.2.Win.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraMap.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraReports.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Dashboard.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Dashboard.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Dashboard.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Dashboard.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Dashboard.v15.2.Win.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Dashboard.v15.2.Win.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Dashboard.v15.2.Win.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Dashboard.v15.2.Win.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Map.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Map.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Map.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Map.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Presets.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Softwaer\AZ\THE END\civilreg1\civilreg1\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+G:\Ahmed Omer\KLT\az\THE END\civilreg1\civilreg1\bin\Debug\civilreg1.exe.config
+G:\Ahmed Omer\KLT\az\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.exe
+G:\Ahmed Omer\KLT\az\THE END\civilreg1\civilreg1\obj\Debug\civilreg1.pdb
